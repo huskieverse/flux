@@ -1,7 +1,7 @@
 # Site
 name: 'FLUX'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
-logo: 'assets/images/logo.png'
+description: 'FLUX is the most up to date feed for all things Huskiverse! See what the community is up to, what the latest news is, and what the latest updates are!'
+logo: https://huskieverse.github.io/assets/images/logo.webp
 favicon: 'assets/images/logo.png'
 baseurl: '/flux'
 avatar: 'assets/images/sal.jpg'
